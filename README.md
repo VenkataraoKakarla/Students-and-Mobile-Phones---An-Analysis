@@ -32,6 +32,9 @@ interested to know that what makes a student select a mobile.
  3. What are the factors that influence the selection of a handset.
  4. What for students are using mobile phones.
 
+### Note: There are other objectoves and analysis around them, but all of it is not uploaded here
+
+
 # Statistical Techniques And Packages
 
 To analyze our data, we have used some statistical tools which can analyze our data as much
