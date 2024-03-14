@@ -1,9 +1,6 @@
 ## DESCRIPTION
 ### In 2009, we completed this project as part of our Post Graduate program, and it's fascinating to see how the mobile industry has undergone significant advancements since that time.
 
-![image](https://github.com/VenkataraoKakarla/Students-and-Mobile-Phones---An-Analysis/assets/29046268/800bc3e6-2f16-4225-845a-573dc7f385cd)
-
-
 ### Background of Problem Statement :
 
 Mobile means that moves by itself. Mobile phones are becoming more and more common
